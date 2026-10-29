@@ -1,7 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { render } from "../.ssr/prerender.js";
-const origin = "https://deepoint-energy-20261029.greencandy32.chatgpt.site";
+const origin = "https://deepoint-energy-public-20261029.sacred-rose-3108.chatgpt.site";
 const ascii = (s) =>
   s.replace(/[^\x00-\x7F]/gu, (c) => `&#${c.codePointAt(0)};`);
 const titles = {
