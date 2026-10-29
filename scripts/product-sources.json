@@ -1,0 +1,247 @@
+{
+  "catalog_count": 32,
+  "original_catalog_entries": 30,
+  "products": [
+    {
+      "id": "sun-3-3-6-5-6k-og02lp1-eu",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\assets\\products\\deye-inverter-images\\1.png",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deye-inverter-pdf\\SUN-33.656K-OG02LP1-EU.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "sun-5-25k-sg01hp3-eu",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deye\\逆变器与PCS\\9.png",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deye-inverter-pdf\\SUN-5~25K-SG01HP3-EU.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "sun-25-29-9-30k-sg02hp3-eu",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deye\\逆变器与PCS\\2.png",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deye-inverter-pdf\\SUN-2529.930K-SG02HP3-EU.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "sun-30-50k-sg01hp3-eu",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deye\\逆变器与PCS\\3.png",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deye-inverter-pdf\\SUN-30~50K-SG01HP3-EU.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "sun-60-70-75-80k-sg02hp3-eu",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deye\\逆变器与PCS\\4.png",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deye-inverter-pdf\\SUN-60707580K-SG02HP3-EU.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "sun-100-125k-sg02hp3-eu",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deye\\逆变器与PCS\\5.png",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deye-inverter-pdf\\SUN-100125K-SG02HP3-EU.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "sun-3-20k-sg05lp3-eu",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deye\\逆变器与PCS\\6.png",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deye-inverter-pdf\\SUN-3~20K-SG05LP3-EU.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "sun-12-14-16k-sg01lp1-eu",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deye\\逆变器与PCS\\8.png",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deye-inverter-pdf\\SUN-121416K-SG01LP1-EU.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "deye-bos-a",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deye\\储能电池与储能柜\\BOS-A.webp",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deye-ess-pdf\\BOS-A.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately.",
+      "correction": "BOS-A is high-voltage rack storage, with 53.76–161.28kWh system energy from current supplied PDF; original site low-voltage/stackable wording and range were incorrect."
+    },
+    {
+      "id": "deye-bos-b",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deye\\储能电池与储能柜\\bos-b-cropped.webp",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deye-ess-pdf\\BOS-B.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately.",
+      "visually_verified_pages": [
+        3,
+        6
+      ],
+      "correction": "Use precise maximum system energy214.5kWh, not 215kWh rounded marketing value. IP20 applies to battery enclosure, not IP65 PCS."
+    },
+    {
+      "id": "deye-bos-b-pro-a3",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deye\\储能电池与储能柜\\BOS-B-PRO.webp",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deye-ess-pdf\\Deye-BOS-B-Pro.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately.",
+      "correction": "Original catalog61.44kWh+ value replaced by datasheet page3 system energy80.3–257.2kWh."
+    },
+    {
+      "id": "deye-bos-gx-15-60-kwh",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deye\\储能电池与储能柜\\BOS-G.webp",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deye-ess-pdf\\Deye-BOS-G.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "deye-ms-g215",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deye\\储能电池与储能柜\\MS-G-215.webp",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deye-ess-pdf\\MS-G-215.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "deye-ms-gs-215",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deye\\储能电池与储能柜\\MS-GS-215.webp",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deye-ess-pdf\\MS-GS-215.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately.",
+      "visually_verified_pages": [
+        1,
+        5,
+        6
+      ],
+      "model_variant": "MS-GS215-2H3"
+    },
+    {
+      "id": "dp1-5kw-12v",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deepoint\\逆变器\\DP1.5KW-12V.png",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deepoint-inverter-pdf\\DP1.5KW-12V.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "dp4-0kw-24v",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deepoint\\逆变器\\DP4.0KW-24V.png",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deepoint-inverter-pdf\\DP4.0KW-24V.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "dp6-5kw-48v",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deepoint\\逆变器\\DP6.5KW-48V-fast.webp",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deepoint-inverter-pdf\\DP6.5KW-48V.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "dp12kw-48v",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deepoint\\逆变器\\DP12KW-48V.png",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deepoint-inverter-pdf\\DP12KW-48V.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "dp-12100",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\assets\\products\\deepoint-ess-images\\DP-12100-fast.webp",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deepoint-ess-pdf\\DP-12100.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "dp-12200",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\assets\\products\\deepoint-ess-images\\DP-12200-fast.webp",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deepoint-ess-pdf\\DP-12200.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "dp-12300",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\assets\\products\\deepoint-ess-images\\DP-12300-fast.webp",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deepoint-ess-pdf\\DP-12300.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "dp-51200",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deepoint\\储能电池\\DP-51200.webp",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deepoint-ess-pdf\\DP-51200.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "dp-51300",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\产品图片\\4.deepoint ess\\DP-51300.webp",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deepoint-ess-pdf\\DP-51300.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "dt144hbg-575-595-w",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\assets\\products\\deepoint-solar-panel-images\\DT144HBG 575~595W-fast.webp",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deepoint-solar-panel-pdf\\DT144HBG 575~595W.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "et132hbg-695-720-w",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\assets\\products\\deepoint-solar-panel-images\\ET132HBG 695~720W-fast.webp",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deepoint-solar-panel-pdf\\ET132HBG 695~720W.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "ft132hbg-605-625-w",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\assets\\products\\deepoint-solar-panel-images\\FT132HBG 605~625W-fast.webp",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deepoint-solar-panel-pdf\\FT132HBG 605~625W.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "gb-300w",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deepoint\\太阳能灯\\GB-300W.webp",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deepoint-street-light-pdf\\GB-300W.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "gb-400w",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\产品图片\\5.deepoint太阳能灯\\GB-400W.png",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deepoint-street-light-pdf\\GB-400W.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "la-pro-series-60-80-100-w",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deepoint\\太阳能灯\\LA-Pro-60W-fast.webp",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deepoint-street-light-pdf\\LA-Pro-60W.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "spx-100-200-w",
+      "original_catalog": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products.html",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deepoint\\太阳能灯\\SPX-100-200w-fast.webp",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deepoint-street-light-pdf\\SPX-100-200w.pdf",
+      "spec_method": "Catalog power/capacity and automatically extracted matching datasheet rows; featured values visually checked separately."
+    },
+    {
+      "id": "deye-sun-50k-sg01hp3-eu-bm4",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deye\\逆变器与PCS\\SUN-50K-SG01HP3-EU-BM4__02_front-cropped.webp",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deye-inverter-pdf\\SUN-30~50K-SG01HP3-EU.pdf",
+      "visually_verified_pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "deye-sun-80k-sg02hp3-eu-em6",
+      "image_source": "C:\\Users\\chuan\\Documents\\website\\deepoint-assets-20261028\\02_产品图片\\Deye\\逆变器与PCS\\SUN-80K-SG02HP3-EU-EM6__02_front-cropped.webp",
+      "pdf_source": "C:\\Users\\chuan\\Documents\\website\\deepoint\\products\\deye-inverter-pdf\\SUN-60707580K-SG02HP3-EU.pdf",
+      "visually_verified_pages": [
+        1,
+        2
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+const vm=require("node:vm"),fs=require("node:fs");const s=fs.readFileSync("../../deye-solar-nigeria.html","utf8");const a=s.split("  plans = [")[1].split("\n  ];")[0];fs.writeFileSync("src/data/plans.json",JSON.stringify(vm.runInNewContext("["+a+"]"),null,2));

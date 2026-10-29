@@ -1,0 +1,47 @@
+[
+  {
+    "id": "nigeria",
+    "name": {
+      "en": "Nigeria",
+      "fr": "Nigeria"
+    },
+    "city": "Lagos",
+    "x": 435.1,
+    "y": 384.6,
+    "image": "/images/editorial/map-nigeria.webp"
+  },
+  {
+    "id": "cameroon",
+    "name": {
+      "en": "Cameroon",
+      "fr": "Cameroun"
+    },
+    "city": "Douala",
+    "x": 537.3,
+    "y": 424.2,
+    "image": "/images/editorial/map-cameroon.webp"
+  },
+  {
+    "id": "mali",
+    "name": {
+      "en": "Mali",
+      "fr": "Mali"
+    },
+    "city": "Bamako",
+    "x": 253.0,
+    "y": 286.8,
+    "image": "/images/editorial/map-mali.webp",
+    "video": "/media/mali-warehouse.mp4"
+  },
+  {
+    "id": "sierra-leone",
+    "name": {
+      "en": "Sierra Leone",
+      "fr": "Sierra Leone"
+    },
+    "city": "Freetown",
+    "x": 169.3,
+    "y": 353.6,
+    "image": "/images/editorial/map-sierra-leone.webp"
+  }
+]

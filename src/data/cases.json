@@ -1,0 +1,39 @@
+[
+  {
+    "id": "telecom",
+    "title": {
+      "en": "Telecom continuity, Mali.",
+      "fr": "Continuité télécom au Mali."
+    },
+    "summary": {
+      "en": "A solar and storage installation for a telecom centre in Mali.",
+      "fr": "Une installation solaire avec stockage pour un centre de télécommunications au Mali."
+    },
+    "image": "/images/editorial/case-telecom.webp"
+  },
+  {
+    "id": "police",
+    "title": {
+      "en": "Public infrastructure, Bamako.",
+      "fr": "Infrastructure publique à Bamako."
+    },
+    "summary": {
+      "en": "On-site installation and commissioning at the Bamako police headquarters.",
+      "fr": "Installation et mise en service sur site au quartier général de la police de Bamako."
+    },
+    "image": "/images/editorial/case-police.webp"
+  },
+  {
+    "id": "residential",
+    "title": {
+      "en": "A home powered in Zanzibar.",
+      "fr": "Une maison équipée à Zanzibar."
+    },
+    "summary": {
+      "en": "A residential rooftop solar installation in Zanzibar.",
+      "fr": "Une installation photovoltaïque en toiture pour une villa à Zanzibar."
+    },
+    "image": "/images/editorial/case-residential.webp",
+    "video": "/media/zanzibar-residential.mp4"
+  }
+]

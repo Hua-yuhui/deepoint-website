@@ -1,0 +1,2378 @@
+[
+  {
+    "id": "sun-3-3-6-5-6k-og02lp1-eu",
+    "brand": "Deye",
+    "category": "inverter",
+    "name": "SUN-3/3.6/5/6K-OG02LP1-EU",
+    "image": "/images/products/sun-3-3-6-5-6k-og02lp1-eu.webp",
+    "pdf": "/documents/sun-3-3-6-5-6k-og02lp1-eu.pdf",
+    "description": {
+      "en": "Residential backup and small off-grid systems.",
+      "fr": "Sauvegarde résidentielle et petits systèmes hors réseau."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "3 / 3.6 / 5 / 6 kW",
+        "valueFr": "3 / 3.6 / 5 / 6 kW"
+      },
+      {
+        "label": {
+          "en": "Battery type",
+          "fr": "Type de batterie"
+        },
+        "value": "Lead-acid or Lithium-ion",
+        "valueFr": "Plomb ou lithium-ion"
+      },
+      {
+        "label": {
+          "en": "Battery voltage",
+          "fr": "Tension batterie"
+        },
+        "value": "20-30 / 40-60",
+        "valueFr": "20-30 / 40-60"
+      },
+      {
+        "label": {
+          "en": "Max. efficiency",
+          "fr": "Rendement maximal"
+        },
+        "value": "97.6%",
+        "valueFr": "97.6%"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP65",
+        "valueFr": "IP65"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "Single Phase",
+        "valueFr": "Monophasé"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "Off-Grid",
+        "valueFr": "Hors réseau"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "sun-5-25k-sg01hp3-eu",
+    "brand": "Deye",
+    "category": "inverter",
+    "name": "SUN-5~25K-SG01HP3-EU",
+    "image": "/images/products/sun-5-25k-sg01hp3-eu.webp",
+    "pdf": "/documents/sun-5-25k-sg01hp3-eu.pdf",
+    "description": {
+      "en": "Three-phase hybrid inverter for villas, shops and small commercial sites.",
+      "fr": "Onduleur hybride triphasé pour villas, commerces et petits projets professionnels."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "5-25 kW",
+        "valueFr": "5-25 kW"
+      },
+      {
+        "label": {
+          "en": "Battery type",
+          "fr": "Type de batterie"
+        },
+        "value": "Lithium-ion",
+        "valueFr": "Lithium-ion"
+      },
+      {
+        "label": {
+          "en": "Battery voltage",
+          "fr": "Tension batterie"
+        },
+        "value": "160-700",
+        "valueFr": "160-700"
+      },
+      {
+        "label": {
+          "en": "Max. efficiency",
+          "fr": "Rendement maximal"
+        },
+        "value": "97.6%",
+        "valueFr": "97.6%"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP65",
+        "valueFr": "IP65"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "Three Phase",
+        "valueFr": "Triphasé"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "Hybrid",
+        "valueFr": "Hybride"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "sun-25-29-9-30k-sg02hp3-eu",
+    "brand": "Deye",
+    "category": "inverter",
+    "name": "SUN-25/29.9/30K-SG02HP3-EU",
+    "image": "/images/products/sun-25-29-9-30k-sg02hp3-eu.webp",
+    "pdf": "/documents/sun-25-29-9-30k-sg02hp3-eu.pdf",
+    "description": {
+      "en": "Commercial hybrid inverter for medium load backup and PV integration.",
+      "fr": "Onduleur hybride pour les charges commerciales et l’intégration photovoltaïque."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "25-30 kW",
+        "valueFr": "25-30 kW"
+      },
+      {
+        "label": {
+          "en": "Battery type",
+          "fr": "Type de batterie"
+        },
+        "value": "Lithium-ion",
+        "valueFr": "Lithium-ion"
+      },
+      {
+        "label": {
+          "en": "Battery voltage",
+          "fr": "Tension batterie"
+        },
+        "value": "160-700",
+        "valueFr": "160-700"
+      },
+      {
+        "label": {
+          "en": "Max. efficiency",
+          "fr": "Rendement maximal"
+        },
+        "value": "98.50%",
+        "valueFr": "98.50%"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP65",
+        "valueFr": "IP65"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "Three Phase",
+        "valueFr": "Triphasé"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "Hybrid",
+        "valueFr": "Hybride"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "sun-30-50k-sg01hp3-eu",
+    "brand": "Deye",
+    "category": "inverter",
+    "name": "SUN-30~50K-SG01HP3-EU",
+    "image": "/images/products/sun-30-50k-sg01hp3-eu.webp",
+    "pdf": "/documents/sun-30-50k-sg01hp3-eu.pdf",
+    "description": {
+      "en": "High power C&I hybrid inverter for larger buildings and projects.",
+      "fr": "Onduleur hybride industriel pour les grands bâtiments et projets."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "30-50 kW",
+        "valueFr": "30-50 kW"
+      },
+      {
+        "label": {
+          "en": "Battery type",
+          "fr": "Type de batterie"
+        },
+        "value": "Lithium-ion",
+        "valueFr": "Lithium-ion"
+      },
+      {
+        "label": {
+          "en": "Battery voltage",
+          "fr": "Tension batterie"
+        },
+        "value": "160-800",
+        "valueFr": "160-800"
+      },
+      {
+        "label": {
+          "en": "Max. efficiency",
+          "fr": "Rendement maximal"
+        },
+        "value": "97.60%",
+        "valueFr": "97.60%"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP65",
+        "valueFr": "IP65"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "Three Phase",
+        "valueFr": "Triphasé"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "Hybrid",
+        "valueFr": "Hybride"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "sun-60-70-75-80k-sg02hp3-eu",
+    "brand": "Deye",
+    "category": "inverter",
+    "name": "SUN-60/70/75/80K-SG02HP3-EU",
+    "image": "/images/products/sun-60-70-75-80k-sg02hp3-eu.webp",
+    "pdf": "/documents/sun-60-70-75-80k-sg02hp3-eu.pdf",
+    "description": {
+      "en": "Large commercial inverter for multi-building and industrial sites.",
+      "fr": "Onduleur pour les installations commerciales à forte demande."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "60-80 kW",
+        "valueFr": "60-80 kW"
+      },
+      {
+        "label": {
+          "en": "Battery type",
+          "fr": "Type de batterie"
+        },
+        "value": "Lithium-ion",
+        "valueFr": "Lithium-ion"
+      },
+      {
+        "label": {
+          "en": "Battery voltage",
+          "fr": "Tension batterie"
+        },
+        "value": "160-1000",
+        "valueFr": "160-1000"
+      },
+      {
+        "label": {
+          "en": "Max. efficiency",
+          "fr": "Rendement maximal"
+        },
+        "value": "98.70%",
+        "valueFr": "98.70%"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP65",
+        "valueFr": "IP65"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "Three Phase",
+        "valueFr": "Triphasé"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "Hybrid",
+        "valueFr": "Hybride"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "sun-100-125k-sg02hp3-eu",
+    "brand": "Deye",
+    "category": "inverter",
+    "name": "SUN-100/125K-SG02HP3-EU",
+    "image": "/images/products/sun-100-125k-sg02hp3-eu.webp",
+    "pdf": "/documents/sun-100-125k-sg02hp3-eu.pdf",
+    "description": {
+      "en": "Utility-scale C&I hybrid platform for high-demand installations.",
+      "fr": "Plateforme hybride pour les grands projets commerciaux et industriels."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "100-125 kW",
+        "valueFr": "100-125 kW"
+      },
+      {
+        "label": {
+          "en": "Battery type",
+          "fr": "Type de batterie"
+        },
+        "value": "Lithium-ion",
+        "valueFr": "Lithium-ion"
+      },
+      {
+        "label": {
+          "en": "Battery voltage",
+          "fr": "Tension batterie"
+        },
+        "value": "160-1000",
+        "valueFr": "160-1000"
+      },
+      {
+        "label": {
+          "en": "Max. efficiency",
+          "fr": "Rendement maximal"
+        },
+        "value": "98.70%",
+        "valueFr": "98.70%"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP65",
+        "valueFr": "IP65"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "Three Phase",
+        "valueFr": "Triphasé"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "Hybrid",
+        "valueFr": "Hybride"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "sun-3-20k-sg05lp3-eu",
+    "brand": "Deye",
+    "category": "inverter",
+    "name": "SUN-3~20K-SG05LP3-EU",
+    "image": "/images/products/sun-3-20k-sg05lp3-eu.webp",
+    "pdf": "/documents/sun-3-20k-sg05lp3-eu.pdf",
+    "description": {
+      "en": "Low-voltage hybrid inverter range for flexible residential and light commercial systems.",
+      "fr": "Onduleur hybride basse tension pour le résidentiel et les petits commerces."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "3-20 kW",
+        "valueFr": "3-20 kW"
+      },
+      {
+        "label": {
+          "en": "Battery type",
+          "fr": "Type de batterie"
+        },
+        "value": "Lead-acid or Lithium-ion",
+        "valueFr": "Plomb ou lithium-ion"
+      },
+      {
+        "label": {
+          "en": "Battery voltage",
+          "fr": "Tension batterie"
+        },
+        "value": "40-60",
+        "valueFr": "40-60"
+      },
+      {
+        "label": {
+          "en": "Max. efficiency",
+          "fr": "Rendement maximal"
+        },
+        "value": "97.6%",
+        "valueFr": "97.6%"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP65",
+        "valueFr": "IP65"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "Three Phase",
+        "valueFr": "Triphasé"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "Low Voltage",
+        "valueFr": "Basse tension"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "sun-12-14-16k-sg01lp1-eu",
+    "brand": "Deye",
+    "category": "inverter",
+    "name": "SUN-12/14/16K-SG01LP1-EU",
+    "image": "/images/products/sun-12-14-16k-sg01lp1-eu.webp",
+    "pdf": "/documents/sun-12-14-16k-sg01lp1-eu.pdf",
+    "description": {
+      "en": "Single-phase high-power hybrid inverter for premium home backup.",
+      "fr": "Onduleur monophasé de forte puissance pour la sauvegarde résidentielle."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "12-16 kW",
+        "valueFr": "12-16 kW"
+      },
+      {
+        "label": {
+          "en": "Battery type",
+          "fr": "Type de batterie"
+        },
+        "value": "Lead-acid or Lithium-ion",
+        "valueFr": "Plomb ou lithium-ion"
+      },
+      {
+        "label": {
+          "en": "Battery voltage",
+          "fr": "Tension batterie"
+        },
+        "value": "40-60",
+        "valueFr": "40-60"
+      },
+      {
+        "label": {
+          "en": "Max. efficiency",
+          "fr": "Rendement maximal"
+        },
+        "value": "97.6%",
+        "valueFr": "97.6%"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP65",
+        "valueFr": "IP65"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "Single Phase",
+        "valueFr": "Monophasé"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "Hybrid",
+        "valueFr": "Hybride"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "deye-bos-a",
+    "brand": "Deye",
+    "category": "storage",
+    "name": "Deye BOS-A",
+    "image": "/images/products/deye-bos-a.webp",
+    "pdf": "/documents/deye-bos-a.pdf",
+    "description": {
+      "en": "High-voltage modular storage for small commercial and industrial systems.",
+      "fr": "Stockage haute tension modulaire pour les petits projets commerciaux et industriels."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "System energy",
+          "fr": "Énergie système"
+        },
+        "value": "53.76–161.28 kWh",
+        "valueFr": "53.76–161.28 kWh"
+      },
+      {
+        "label": {
+          "en": "Module energy",
+          "fr": "Énergie du module"
+        },
+        "value": "7.68 kWh",
+        "valueFr": "7.68 kWh"
+      },
+      {
+        "label": {
+          "en": "Module capacity",
+          "fr": "Capacité du module"
+        },
+        "value": "200 Ah",
+        "valueFr": "200 Ah"
+      },
+      {
+        "label": {
+          "en": "Module nominal voltage",
+          "fr": "Tension nominale du module"
+        },
+        "value": "38.4 V",
+        "valueFr": "38.4 V"
+      },
+      {
+        "label": {
+          "en": "Modules in series",
+          "fr": "Modules en série"
+        },
+        "value": "7–21",
+        "valueFr": "7–21"
+      },
+      {
+        "label": {
+          "en": "Chemistry",
+          "fr": "Chimie"
+        },
+        "value": "LiFePO4",
+        "valueFr": "LiFePO4"
+      },
+      {
+        "label": {
+          "en": "Max. charge / discharge current",
+          "fr": "Courant de charge / décharge maximal"
+        },
+        "value": "160 A",
+        "valueFr": "160 A"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP20",
+        "valueFr": "IP20"
+      },
+      {
+        "label": {
+          "en": "Cycle life",
+          "fr": "Durée de vie"
+        },
+        "value": "≥6000 (25±2°C,0.5C/0.5C,EOL70%)",
+        "valueFr": "≥6000 (25±2°C,0.5C/0.5C,EOL70%)"
+      },
+      {
+        "label": {
+          "en": "Warranty",
+          "fr": "Garantie"
+        },
+        "value": "10 years",
+        "valueFr": "10 ans"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "deye-bos-b",
+    "brand": "Deye",
+    "category": "storage",
+    "name": "BOS-B",
+    "image": "/images/products/deye-bos-b.webp",
+    "pdf": "/documents/deye-bos-b.pdf",
+    "description": {
+      "en": "High-voltage rack storage for commercial and industrial energy systems.",
+      "fr": "Stockage haute tension sur racks pour les systèmes énergétiques commerciaux et industriels."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "System energy (max.)",
+          "fr": "Énergie système maximale"
+        },
+        "value": "214.5 kWh",
+        "valueFr": "214.5 kWh"
+      },
+      {
+        "label": {
+          "en": "Module capacity",
+          "fr": "Capacité du module"
+        },
+        "value": "280 Ah",
+        "valueFr": "280 Ah"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP20",
+        "valueFr": "IP20"
+      },
+      {
+        "label": {
+          "en": "Usable system energy (max.)",
+          "fr": "Énergie système utilisable maximale"
+        },
+        "value": "193.05 kWh",
+        "valueFr": "193.05 kWh"
+      },
+      {
+        "label": {
+          "en": "Module energy",
+          "fr": "Énergie du module"
+        },
+        "value": "14.3 kWh",
+        "valueFr": "14.3 kWh"
+      },
+      {
+        "label": {
+          "en": "Module nominal voltage",
+          "fr": "Tension nominale du module"
+        },
+        "value": "51.2 V",
+        "valueFr": "51.2 V"
+      },
+      {
+        "label": {
+          "en": "System nominal voltage (max.)",
+          "fr": "Tension système nominale maximale"
+        },
+        "value": "768 V",
+        "valueFr": "768 V"
+      },
+      {
+        "label": {
+          "en": "Modules in series",
+          "fr": "Modules en série"
+        },
+        "value": "15",
+        "valueFr": "15"
+      },
+      {
+        "label": {
+          "en": "Max. charge / discharge current",
+          "fr": "Courant de charge / décharge maximal"
+        },
+        "value": "168 A",
+        "valueFr": "168 A"
+      },
+      {
+        "label": {
+          "en": "Recommended depth of discharge",
+          "fr": "Profondeur de décharge recommandée"
+        },
+        "value": "90%",
+        "valueFr": "90%"
+      },
+      {
+        "label": {
+          "en": "Cycle life",
+          "fr": "Durée de vie"
+        },
+        "value": "≥6000 (25±2°C, 0.5C / 0.5C, EOL70%)",
+        "valueFr": "≥6000 (25±2°C, 0.5C / 0.5C, EOL70%)"
+      },
+      {
+        "label": {
+          "en": "Dimensions (W×H×D)",
+          "fr": "Dimensions (L×H×P)"
+        },
+        "value": "2150×1136×800 mm",
+        "valueFr": "2150×1136×800 mm"
+      },
+      {
+        "label": {
+          "en": "Weight (approx.)",
+          "fr": "Poids approximatif"
+        },
+        "value": "1944 kg",
+        "valueFr": "1944 kg"
+      },
+      {
+        "label": {
+          "en": "Communication",
+          "fr": "Communication"
+        },
+        "value": "TCP / RS485 / CAN",
+        "valueFr": "TCP / RS485 / CAN"
+      },
+      {
+        "label": {
+          "en": "Warranty",
+          "fr": "Garantie"
+        },
+        "value": "10 years",
+        "valueFr": "10 ans"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "deye-bos-b-pro-a3",
+    "brand": "Deye",
+    "category": "storage",
+    "name": "Deye BOS-B Pro-A3",
+    "image": "/images/products/deye-bos-b-pro-a3.webp",
+    "pdf": "/documents/deye-bos-b-pro-a3.pdf",
+    "description": {
+      "en": "Professional rack ESS for higher power installations.",
+      "fr": "Système de stockage modulaire pour les installations de plus forte puissance."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "80.3–257.2 kWh",
+        "valueFr": "80.3–257.2 kWh"
+      },
+      {
+        "label": {
+          "en": "Module energy",
+          "fr": "Énergie du module"
+        },
+        "value": "16.08 kWh",
+        "valueFr": "16.08 kWh"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP20",
+        "valueFr": "IP20"
+      },
+      {
+        "label": {
+          "en": "Nominal capacity",
+          "fr": "Capacité nominale"
+        },
+        "value": "314Ah",
+        "valueFr": "314Ah"
+      },
+      {
+        "label": {
+          "en": "Nominal voltage",
+          "fr": "Tension nominale"
+        },
+        "value": "51.2Vdc",
+        "valueFr": "51.2Vdc"
+      },
+      {
+        "label": {
+          "en": "Cycle life",
+          "fr": "Durée de vie"
+        },
+        "value": "25±2°C, 0.5C / 0.5C, EOL70%≥6000",
+        "valueFr": "25±2°C, 0.5C / 0.5C, EOL70%≥6000"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "Battery",
+        "valueFr": "Batterie"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "Rack ESS",
+        "valueFr": "Stockage sur rack"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "deye-bos-gx-15-60-kwh",
+    "brand": "Deye",
+    "category": "storage",
+    "name": "Deye BOS-G",
+    "image": "/images/products/deye-bos-gx-15-60-kwh.webp",
+    "pdf": "/documents/deye-bos-gx-15-60-kwh.pdf",
+    "description": {
+      "en": "Modular high-voltage ESS for homes and small C&I sites.",
+      "fr": "Stockage haute tension modulaire pour les sites résidentiels et les petits projets professionnels."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "15.36–61.44 kWh",
+        "valueFr": "15.36–61.44 kWh"
+      },
+      {
+        "label": {
+          "en": "Chemistry",
+          "fr": "Chimie"
+        },
+        "value": "LiFePO4",
+        "valueFr": "LiFePO4"
+      },
+      {
+        "label": {
+          "en": "Module energy",
+          "fr": "Énergie du module"
+        },
+        "value": "5.12",
+        "valueFr": "5.12"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP20",
+        "valueFr": "IP20"
+      },
+      {
+        "label": {
+          "en": "Cycle life",
+          "fr": "Durée de vie"
+        },
+        "value": "25±2°C, 0.5C/0.5C, EOL70%≥6000",
+        "valueFr": "25±2°C, 0.5C/0.5C, EOL70%≥6000"
+      },
+      {
+        "label": {
+          "en": "Battery type",
+          "fr": "Type de batterie"
+        },
+        "value": "LiFePO4  ( LFP )",
+        "valueFr": "LiFePO4  ( LFP )"
+      },
+      {
+        "label": {
+          "en": "Nominal voltage",
+          "fr": "Tension nominale"
+        },
+        "value": "51.2Vdc",
+        "valueFr": "51.2Vdc"
+      },
+      {
+        "label": {
+          "en": "Nominal capacity",
+          "fr": "Capacité nominale"
+        },
+        "value": "100Ah",
+        "valueFr": "100Ah"
+      },
+      {
+        "label": {
+          "en": "Rated energy",
+          "fr": "Énergie nominale"
+        },
+        "value": "5.12kWh",
+        "valueFr": "5.12kWh"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "Battery",
+        "valueFr": "Batterie"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "Modular",
+        "valueFr": "Modulaire"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "deye-ms-g215",
+    "brand": "Deye",
+    "category": "storage",
+    "name": "Deye MS-G215",
+    "image": "/images/products/deye-ms-g215.webp",
+    "pdf": "/documents/deye-ms-g215.pdf",
+    "description": {
+      "en": "Liquid-cooled C&I storage cabinet for hotels, schools and factories.",
+      "fr": "Armoire de stockage pour hôtels, écoles et usines."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "215 kWh",
+        "valueFr": "215 kWh"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP54",
+        "valueFr": "IP54"
+      },
+      {
+        "label": {
+          "en": "Max. efficiency",
+          "fr": "Rendement maximal"
+        },
+        "value": "98.5%",
+        "valueFr": "98.5%"
+      },
+      {
+        "label": {
+          "en": "Cycle life",
+          "fr": "Durée de vie"
+        },
+        "value": "≥6000(@25℃±2℃,0.5C/0.5C,70%EOL)",
+        "valueFr": "≥6000(@25℃±2℃,0.5C/0.5C,70%EOL)"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "C&I ESS",
+        "valueFr": "Stockage commercial et industriel"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "Cabinet",
+        "valueFr": "Armoire"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "deye-ms-gs-215",
+    "brand": "Deye",
+    "category": "storage",
+    "name": "MS-GS-215",
+    "image": "/images/products/deye-ms-gs-215.webp",
+    "pdf": "/documents/deye-ms-gs-215.pdf",
+    "description": {
+      "en": "Air-cooled commercial solar and battery storage with integrated PCS and MPPT.",
+      "fr": "Stockage solaire et batterie commercial refroidi par air, avec PCS et MPPT intégrés."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Battery energy",
+          "fr": "Énergie batterie"
+        },
+        "value": "215 kWh",
+        "valueFr": "215 kWh"
+      },
+      {
+        "label": {
+          "en": "AC output",
+          "fr": "Puissance de sortie AC"
+        },
+        "value": "100 kW",
+        "valueFr": "100 kW"
+      },
+      {
+        "label": {
+          "en": "PV access power (max.)",
+          "fr": "Puissance PV raccordable maximale"
+        },
+        "value": "200 kWp",
+        "valueFr": "200 kWp"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP54",
+        "valueFr": "IP54"
+      },
+      {
+        "label": {
+          "en": "MPP trackers",
+          "fr": "Régulateurs MPPT"
+        },
+        "value": "8",
+        "valueFr": "8"
+      },
+      {
+        "label": {
+          "en": "Max. PV input power",
+          "fr": "Puissance PV d’entrée maximale"
+        },
+        "value": "160 kW",
+        "valueFr": "160 kW"
+      },
+      {
+        "label": {
+          "en": "Max. round-trip efficiency",
+          "fr": "Rendement aller-retour maximal"
+        },
+        "value": "88%",
+        "valueFr": "88%"
+      },
+      {
+        "label": {
+          "en": "Battery operating voltage",
+          "fr": "Tension de fonctionnement batterie"
+        },
+        "value": "660–864 V",
+        "valueFr": "660–864 V"
+      },
+      {
+        "label": {
+          "en": "MPPT voltage range",
+          "fr": "Plage de tension MPPT"
+        },
+        "value": "180–750 V",
+        "valueFr": "180–750 V"
+      },
+      {
+        "label": {
+          "en": "Grid type",
+          "fr": "Raccordement réseau"
+        },
+        "value": "3L / N / PE",
+        "valueFr": "3L / N / PE"
+      },
+      {
+        "label": {
+          "en": "Operating temperature",
+          "fr": "Température de fonctionnement"
+        },
+        "value": "−20–50°C (>45°C derating)",
+        "valueFr": "−20–50°C (>45°C réduction de puissance)"
+      },
+      {
+        "label": {
+          "en": "Dimensions (W×D×H)",
+          "fr": "Dimensions (L×P×H)"
+        },
+        "value": "1865×1000×2500 mm",
+        "valueFr": "1865×1000×2500 mm"
+      },
+      {
+        "label": {
+          "en": "Weight (approx.)",
+          "fr": "Poids approximatif"
+        },
+        "value": "3030 kg",
+        "valueFr": "3030 kg"
+      },
+      {
+        "label": {
+          "en": "System communication",
+          "fr": "Communication système"
+        },
+        "value": "ETH / 4G",
+        "valueFr": "ETH / 4G"
+      },
+      {
+        "label": {
+          "en": "Model variant",
+          "fr": "Variante du modèle"
+        },
+        "value": "MS-GS215-2H3",
+        "valueFr": "MS-GS215-2H3"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "dp1-5kw-12v",
+    "brand": "Deepoint",
+    "category": "inverter",
+    "name": "DP1.5KW-12V",
+    "image": "/images/products/dp1-5kw-12v.webp",
+    "pdf": "/documents/dp1-5kw-12v.pdf",
+    "description": {
+      "en": "Compact inverter for small home and shop backup.",
+      "fr": "Onduleur compact pour les petits logements et commerces."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "1.5 kW",
+        "valueFr": "1.5 kW"
+      },
+      {
+        "label": {
+          "en": "Max. efficiency",
+          "fr": "Rendement maximal"
+        },
+        "value": "90%@12VDC",
+        "valueFr": "90%@12VDC"
+      },
+      {
+        "label": {
+          "en": "Solar charger",
+          "fr": "Régulateur solaire"
+        },
+        "value": "MPPT",
+        "valueFr": "MPPT"
+      },
+      {
+        "label": {
+          "en": "PV input",
+          "fr": "Entrée photovoltaïque"
+        },
+        "value": "18A/800W",
+        "valueFr": "18A/800W"
+      },
+      {
+        "label": {
+          "en": "Battery type",
+          "fr": "Type de batterie"
+        },
+        "value": "Lithium and Lead-acid",
+        "valueFr": "Lithium et plomb"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP21",
+        "valueFr": "IP21"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "Off-Grid",
+        "valueFr": "Hors réseau"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "12 V",
+        "valueFr": "12 V"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "dp4-0kw-24v",
+    "brand": "Deepoint",
+    "category": "inverter",
+    "name": "DP4.0KW-24V",
+    "image": "/images/products/dp4-0kw-24v.webp",
+    "pdf": "/documents/dp4-0kw-24v.pdf",
+    "description": {
+      "en": "Mid-size inverter for household and small commercial loads.",
+      "fr": "Onduleur pour les charges domestiques et les petites installations commerciales."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "4.0 kW",
+        "valueFr": "4.0 kW"
+      },
+      {
+        "label": {
+          "en": "Max. efficiency",
+          "fr": "Rendement maximal"
+        },
+        "value": "92.7%@24VDC",
+        "valueFr": "92.7%@24VDC"
+      },
+      {
+        "label": {
+          "en": "Solar charger",
+          "fr": "Régulateur solaire"
+        },
+        "value": "MPPT",
+        "valueFr": "MPPT"
+      },
+      {
+        "label": {
+          "en": "PV input",
+          "fr": "Entrée photovoltaïque"
+        },
+        "value": "18A/5000W",
+        "valueFr": "18A/5000W"
+      },
+      {
+        "label": {
+          "en": "Battery type",
+          "fr": "Type de batterie"
+        },
+        "value": "Lithium and Lead-acid",
+        "valueFr": "Lithium et plomb"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP21",
+        "valueFr": "IP21"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "Off-Grid",
+        "valueFr": "Hors réseau"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "24 V",
+        "valueFr": "24 V"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "dp6-5kw-48v",
+    "brand": "Deepoint",
+    "category": "inverter",
+    "name": "DP6.5KW-48V",
+    "image": "/images/products/dp6-5kw-48v.webp",
+    "pdf": "/documents/dp6-5kw-48v.pdf",
+    "description": {
+      "en": "Popular off-grid inverter for residential backup kits.",
+      "fr": "Onduleur hors réseau pour les ensembles de secours résidentiels."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "6.5 kW",
+        "valueFr": "6.5 kW"
+      },
+      {
+        "label": {
+          "en": "Max. efficiency",
+          "fr": "Rendement maximal"
+        },
+        "value": "94%@48VDC",
+        "valueFr": "94%@48VDC"
+      },
+      {
+        "label": {
+          "en": "Solar charger",
+          "fr": "Régulateur solaire"
+        },
+        "value": "MPPT",
+        "valueFr": "MPPT"
+      },
+      {
+        "label": {
+          "en": "PV input",
+          "fr": "Entrée photovoltaïque"
+        },
+        "value": "27A/9000W",
+        "valueFr": "27A/9000W"
+      },
+      {
+        "label": {
+          "en": "Battery type",
+          "fr": "Type de batterie"
+        },
+        "value": "Lithium and Lead-acid",
+        "valueFr": "Lithium et plomb"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP21",
+        "valueFr": "IP21"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "Off-Grid",
+        "valueFr": "Hors réseau"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "48 V",
+        "valueFr": "48 V"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "dp12kw-48v",
+    "brand": "Deepoint",
+    "category": "inverter",
+    "name": "DP12KW-48V",
+    "image": "/images/products/dp12kw-48v.webp",
+    "pdf": "/documents/dp12kw-48v.pdf",
+    "description": {
+      "en": "High-power off-grid inverter for larger loads and project sites.",
+      "fr": "Onduleur hors réseau de forte puissance pour les charges importantes."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "12 kW",
+        "valueFr": "12 kW"
+      },
+      {
+        "label": {
+          "en": "Max. efficiency",
+          "fr": "Rendement maximal"
+        },
+        "value": "94%@48VDC",
+        "valueFr": "94%@48VDC"
+      },
+      {
+        "label": {
+          "en": "Solar charger",
+          "fr": "Régulateur solaire"
+        },
+        "value": "Dual MPPTs",
+        "valueFr": "Dual MPPTs"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP21",
+        "valueFr": "IP21"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "Off-Grid",
+        "valueFr": "Hors réseau"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "48 V",
+        "valueFr": "48 V"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "dp-12100",
+    "brand": "Deepoint",
+    "category": "storage",
+    "name": "DP-12100",
+    "image": "/images/products/dp-12100.webp",
+    "pdf": "/documents/dp-12100.pdf",
+    "description": {
+      "en": "Compact low-voltage battery for small backup applications.",
+      "fr": "Batterie basse tension compacte pour les petites applications de secours."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "100 Ah",
+        "valueFr": "100 Ah"
+      },
+      {
+        "label": {
+          "en": "Nominal voltage",
+          "fr": "Tension nominale"
+        },
+        "value": "12.8V",
+        "valueFr": "12.8V"
+      },
+      {
+        "label": {
+          "en": "Nominal capacity",
+          "fr": "Capacité nominale"
+        },
+        "value": "100 Ah",
+        "valueFr": "100 Ah"
+      },
+      {
+        "label": {
+          "en": "Cycle life",
+          "fr": "Durée de vie"
+        },
+        "value": ">3000 Cycles @0.5C",
+        "valueFr": ">3000 Cycles @0.5C"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP65",
+        "valueFr": "IP65"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "LiFePO4",
+        "valueFr": "LiFePO4"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "12 V",
+        "valueFr": "12 V"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "dp-12200",
+    "brand": "Deepoint",
+    "category": "storage",
+    "name": "DP-12200",
+    "image": "/images/products/dp-12200.webp",
+    "pdf": "/documents/dp-12200.pdf",
+    "description": {
+      "en": "Higher capacity 12 V battery for longer runtime systems.",
+      "fr": "Batterie 12 V de capacité supérieure pour une autonomie prolongée."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "200 Ah",
+        "valueFr": "200 Ah"
+      },
+      {
+        "label": {
+          "en": "Nominal voltage",
+          "fr": "Tension nominale"
+        },
+        "value": "12.8V",
+        "valueFr": "12.8V"
+      },
+      {
+        "label": {
+          "en": "Nominal capacity",
+          "fr": "Capacité nominale"
+        },
+        "value": "200 Ah",
+        "valueFr": "200 Ah"
+      },
+      {
+        "label": {
+          "en": "Cycle life",
+          "fr": "Durée de vie"
+        },
+        "value": "≥3000 Cycles @0.5C",
+        "valueFr": "≥3000 Cycles @0.5C"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP65",
+        "valueFr": "IP65"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "LiFePO4",
+        "valueFr": "LiFePO4"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "12 V",
+        "valueFr": "12 V"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "dp-12300",
+    "brand": "Deepoint",
+    "category": "storage",
+    "name": "DP-12300",
+    "image": "/images/products/dp-12300.webp",
+    "pdf": "/documents/dp-12300.pdf",
+    "description": {
+      "en": "Large 12 V module for off-grid and backup projects.",
+      "fr": "Module 12 V pour les projets hors réseau et de secours."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "300 Ah",
+        "valueFr": "300 Ah"
+      },
+      {
+        "label": {
+          "en": "Nominal voltage",
+          "fr": "Tension nominale"
+        },
+        "value": "12.8V",
+        "valueFr": "12.8V"
+      },
+      {
+        "label": {
+          "en": "Nominal capacity",
+          "fr": "Capacité nominale"
+        },
+        "value": "300Ah",
+        "valueFr": "300Ah"
+      },
+      {
+        "label": {
+          "en": "Cycle life",
+          "fr": "Durée de vie"
+        },
+        "value": "≥6000 Cycles @0.5C",
+        "valueFr": "≥6000 Cycles @0.5C"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP65",
+        "valueFr": "IP65"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "LiFePO4",
+        "valueFr": "LiFePO4"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "12 V",
+        "valueFr": "12 V"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "dp-51200",
+    "brand": "Deepoint",
+    "category": "storage",
+    "name": "DP-51200",
+    "image": "/images/products/dp-51200.webp",
+    "pdf": "/documents/dp-51200.pdf",
+    "description": {
+      "en": "Wall or rack battery for residential ESS systems.",
+      "fr": "Batterie pour les systèmes de stockage résidentiels."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "200 Ah",
+        "valueFr": "200 Ah"
+      },
+      {
+        "label": {
+          "en": "Nominal voltage",
+          "fr": "Tension nominale"
+        },
+        "value": "51.2V",
+        "valueFr": "51.2V"
+      },
+      {
+        "label": {
+          "en": "Rated energy",
+          "fr": "Énergie nominale"
+        },
+        "value": "10240wh",
+        "valueFr": "10240wh"
+      },
+      {
+        "label": {
+          "en": "Nominal capacity",
+          "fr": "Capacité nominale"
+        },
+        "value": "200Ah",
+        "valueFr": "200Ah"
+      },
+      {
+        "label": {
+          "en": "Cycle life",
+          "fr": "Durée de vie"
+        },
+        "value": "≥6000cyc@80%DOD@35°C",
+        "valueFr": "≥6000cyc@80%DOD@35°C"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP30",
+        "valueFr": "IP30"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "LiFePO4",
+        "valueFr": "LiFePO4"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "51.2 V",
+        "valueFr": "51.2 V"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "dp-51300",
+    "brand": "Deepoint",
+    "category": "storage",
+    "name": "DP-51300",
+    "image": "/images/products/dp-51300.webp",
+    "pdf": "/documents/dp-51300.pdf",
+    "description": {
+      "en": "High-capacity 51.2 V battery for extended backup time.",
+      "fr": "Batterie 51,2 V de grande capacité pour une autonomie prolongée."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "300 Ah",
+        "valueFr": "300 Ah"
+      },
+      {
+        "label": {
+          "en": "Nominal voltage",
+          "fr": "Tension nominale"
+        },
+        "value": "51.2V",
+        "valueFr": "51.2V"
+      },
+      {
+        "label": {
+          "en": "Rated energy",
+          "fr": "Énergie nominale"
+        },
+        "value": "15360Wh",
+        "valueFr": "15360Wh"
+      },
+      {
+        "label": {
+          "en": "Nominal capacity",
+          "fr": "Capacité nominale"
+        },
+        "value": "300Ah",
+        "valueFr": "300Ah"
+      },
+      {
+        "label": {
+          "en": "Cycle life",
+          "fr": "Durée de vie"
+        },
+        "value": "≥6000cyc@80%DOD@35°C",
+        "valueFr": "≥6000cyc@80%DOD@35°C"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP30",
+        "valueFr": "IP30"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "LiFePO4",
+        "valueFr": "LiFePO4"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "51.2 V",
+        "valueFr": "51.2 V"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "dt144hbg-575-595-w",
+    "brand": "Deepoint",
+    "category": "panel",
+    "name": "DT144HBG 575-595 W",
+    "image": "/images/products/dt144hbg-575-595-w.webp",
+    "pdf": "/documents/dt144hbg-575-595-w.pdf",
+    "description": {
+      "en": "Bifacial N-Type module for high-efficiency solar projects.",
+      "fr": "Module bifacial de type N pour les projets photovoltaïques."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "575-595 W",
+        "valueFr": "575-595 W"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "N-Type",
+        "valueFr": "Type N"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "Bifacial",
+        "valueFr": "Bifacial"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "et132hbg-695-720-w",
+    "brand": "Deepoint",
+    "category": "panel",
+    "name": "ET132HBG 695-720 W",
+    "image": "/images/products/et132hbg-695-720-w.webp",
+    "pdf": "/documents/et132hbg-695-720-w.pdf",
+    "description": {
+      "en": "Large-format bifacial module for commercial and utility arrays.",
+      "fr": "Module bifacial grand format pour les installations commerciales et les centrales."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "695-720 W",
+        "valueFr": "695-720 W"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "N-Type",
+        "valueFr": "Type N"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "Bifacial",
+        "valueFr": "Bifacial"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "ft132hbg-605-625-w",
+    "brand": "Deepoint",
+    "category": "panel",
+    "name": "FT132HBG 605-625 W",
+    "image": "/images/products/ft132hbg-605-625-w.webp",
+    "pdf": "/documents/ft132hbg-605-625-w.pdf",
+    "description": {
+      "en": "High-output module balancing size, efficiency and logistics.",
+      "fr": "Module photovoltaïque à haut rendement pour les projets professionnels."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "605-625 W",
+        "valueFr": "605-625 W"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "N-Type",
+        "valueFr": "Type N"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "Bifacial",
+        "valueFr": "Bifacial"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "gb-300w",
+    "brand": "Deepoint",
+    "category": "lighting",
+    "name": "GB-300W",
+    "image": "/images/products/gb-300w.webp",
+    "pdf": "/documents/gb-300w.pdf",
+    "description": {
+      "en": "Integrated solar street light for roads and compounds.",
+      "fr": "Lampadaire solaire intégré pour les routes et les espaces extérieurs."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "300 W",
+        "valueFr": "300 W"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "Street Light",
+        "valueFr": "Lampadaire solaire"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "Integrated",
+        "valueFr": "Intégré"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "gb-400w",
+    "brand": "Deepoint",
+    "category": "lighting",
+    "name": "GB-400W",
+    "image": "/images/products/gb-400w.webp",
+    "pdf": "/documents/gb-400w.pdf",
+    "description": {
+      "en": "Higher-output integrated solar street light for wider areas.",
+      "fr": "Lampadaire solaire intégré pour les espaces plus vastes."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "400 W",
+        "valueFr": "400 W"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "Street Light",
+        "valueFr": "Lampadaire solaire"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "Integrated",
+        "valueFr": "Intégré"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "la-pro-series-60-80-100-w",
+    "brand": "Deepoint",
+    "category": "lighting",
+    "name": "LA-Pro Series (60 / 80 / 100 W)",
+    "image": "/images/products/la-pro-series-60-80-100-w.webp",
+    "pdf": "/documents/la-pro-series-60-80-100-w.pdf",
+    "description": {
+      "en": "Modular solar street light series for project flexibility.",
+      "fr": "Gamme de lampadaires solaires modulaires pour les projets."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "60-100 W",
+        "valueFr": "60-100 W"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "Street Light",
+        "valueFr": "Lampadaire solaire"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "LA-Pro",
+        "valueFr": "LA-Pro"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "spx-100-200-w",
+    "brand": "Deepoint",
+    "category": "lighting",
+    "name": "SPX-100 / 200 W",
+    "image": "/images/products/spx-100-200-w.webp",
+    "pdf": "/documents/spx-100-200-w.pdf",
+    "description": {
+      "en": "Solar lighting solution for larger outdoor spaces.",
+      "fr": "Solution d’éclairage solaire pour les grands espaces extérieurs."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Power / capacity",
+          "fr": "Puissance / capacité"
+        },
+        "value": "100-200 W",
+        "valueFr": "100-200 W"
+      },
+      {
+        "label": {
+          "en": "Configuration",
+          "fr": "Configuration"
+        },
+        "value": "Street Light",
+        "valueFr": "Lampadaire solaire"
+      },
+      {
+        "label": {
+          "en": "Series",
+          "fr": "Série"
+        },
+        "value": "SPX",
+        "valueFr": "SPX"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "deye-sun-50k-sg01hp3-eu-bm4",
+    "brand": "Deye",
+    "category": "inverter",
+    "name": "SUN-50K-SG01HP3-EU-BM4",
+    "image": "/images/products/deye-sun-50k-sg01hp3-eu-bm4.webp",
+    "pdf": "/documents/deye-sun-50k-sg01hp3-eu-bm4.pdf",
+    "description": {
+      "en": "50 kW three-phase high-voltage hybrid inverter for commercial and industrial projects.",
+      "fr": "Onduleur hybride triphasé haute tension de 50 kW pour les projets commerciaux et industriels."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Rated power",
+          "fr": "Puissance nominale"
+        },
+        "value": "50 kW",
+        "valueFr": "50 kW"
+      },
+      {
+        "label": {
+          "en": "Max. efficiency",
+          "fr": "Rendement maximal"
+        },
+        "value": "97.6%",
+        "valueFr": "97.6%"
+      },
+      {
+        "label": {
+          "en": "MPP trackers",
+          "fr": "Régulateurs MPPT"
+        },
+        "value": "4",
+        "valueFr": "4"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP65",
+        "valueFr": "IP65"
+      },
+      {
+        "label": {
+          "en": "Battery voltage",
+          "fr": "Tension batterie"
+        },
+        "value": "160–800 V",
+        "valueFr": "160–800 V"
+      },
+      {
+        "label": {
+          "en": "Max. PV access power",
+          "fr": "Puissance PV raccordable maximale"
+        },
+        "value": "100 kW",
+        "valueFr": "100 kW"
+      },
+      {
+        "label": {
+          "en": "Max. PV input power",
+          "fr": "Puissance PV d’entrée maximale"
+        },
+        "value": "80 kW",
+        "valueFr": "80 kW"
+      },
+      {
+        "label": {
+          "en": "Max. charge / discharge current",
+          "fr": "Courant de charge / décharge maximal"
+        },
+        "value": "50+50 A",
+        "valueFr": "50+50 A"
+      },
+      {
+        "label": {
+          "en": "AC passthrough",
+          "fr": "Passage AC continu maximal"
+        },
+        "value": "200 A",
+        "valueFr": "200 A"
+      },
+      {
+        "label": {
+          "en": "Parallel operation",
+          "fr": "Fonctionnement en parallèle"
+        },
+        "value": "10 units",
+        "valueFr": "10 unités"
+      },
+      {
+        "label": {
+          "en": "Dimensions (W×H×D)",
+          "fr": "Dimensions (L×H×P)"
+        },
+        "value": "527×894×294 mm",
+        "valueFr": "527×894×294 mm"
+      },
+      {
+        "label": {
+          "en": "Weight",
+          "fr": "Poids"
+        },
+        "value": "80 kg",
+        "valueFr": "80 kg"
+      },
+      {
+        "label": {
+          "en": "Cooling",
+          "fr": "Refroidissement"
+        },
+        "value": "Intelligent air cooling",
+        "valueFr": "Refroidissement par air intelligent"
+      },
+      {
+        "label": {
+          "en": "Communication",
+          "fr": "Communication"
+        },
+        "value": "RS485 / RS232 / CAN",
+        "valueFr": "RS485 / RS232 / CAN"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "deye-sun-80k-sg02hp3-eu-em6",
+    "brand": "Deye",
+    "category": "inverter",
+    "name": "SUN-80K-SG02HP3-EU-EM6",
+    "image": "/images/products/deye-sun-80k-sg02hp3-eu-em6.webp",
+    "pdf": "/documents/deye-sun-80k-sg02hp3-eu-em6.pdf",
+    "description": {
+      "en": "80 kW three-phase high-voltage hybrid inverter for commercial and industrial projects.",
+      "fr": "Onduleur hybride triphasé haute tension de 80 kW pour les projets commerciaux et industriels."
+    },
+    "specs": [
+      {
+        "label": {
+          "en": "Rated power",
+          "fr": "Puissance nominale"
+        },
+        "value": "80 kW",
+        "valueFr": "80 kW"
+      },
+      {
+        "label": {
+          "en": "Max. efficiency",
+          "fr": "Rendement maximal"
+        },
+        "value": "98.7%",
+        "valueFr": "98.7%"
+      },
+      {
+        "label": {
+          "en": "MPP trackers",
+          "fr": "Régulateurs MPPT"
+        },
+        "value": "6",
+        "valueFr": "6"
+      },
+      {
+        "label": {
+          "en": "Ingress protection",
+          "fr": "Indice de protection"
+        },
+        "value": "IP65",
+        "valueFr": "IP65"
+      },
+      {
+        "label": {
+          "en": "Battery voltage",
+          "fr": "Tension batterie"
+        },
+        "value": "160–1000 V",
+        "valueFr": "160–1000 V"
+      },
+      {
+        "label": {
+          "en": "Max. PV access power",
+          "fr": "Puissance PV raccordable maximale"
+        },
+        "value": "160 kW",
+        "valueFr": "160 kW"
+      },
+      {
+        "label": {
+          "en": "Max. PV input power",
+          "fr": "Puissance PV d’entrée maximale"
+        },
+        "value": "128 kW",
+        "valueFr": "128 kW"
+      },
+      {
+        "label": {
+          "en": "Max. charge / discharge current",
+          "fr": "Courant de charge / décharge maximal"
+        },
+        "value": "80+80 A",
+        "valueFr": "80+80 A"
+      },
+      {
+        "label": {
+          "en": "AC passthrough",
+          "fr": "Passage AC continu maximal"
+        },
+        "value": "200 A",
+        "valueFr": "200 A"
+      },
+      {
+        "label": {
+          "en": "Parallel operation",
+          "fr": "Fonctionnement en parallèle"
+        },
+        "value": "10 units",
+        "valueFr": "10 unités"
+      },
+      {
+        "label": {
+          "en": "Dimensions (W×H×D)",
+          "fr": "Dimensions (L×H×P)"
+        },
+        "value": "606×927×314 mm",
+        "valueFr": "606×927×314 mm"
+      },
+      {
+        "label": {
+          "en": "Weight",
+          "fr": "Poids"
+        },
+        "value": "105 kg",
+        "valueFr": "105 kg"
+      },
+      {
+        "label": {
+          "en": "Cooling",
+          "fr": "Refroidissement"
+        },
+        "value": "Intelligent air cooling",
+        "valueFr": "Refroidissement par air intelligent"
+      },
+      {
+        "label": {
+          "en": "Communication",
+          "fr": "Communication"
+        },
+        "value": "RS485 / RS232 / CAN",
+        "valueFr": "RS485 / RS232 / CAN"
+      }
+    ],
+    "featured": true
+  }
+]
