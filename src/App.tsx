@@ -111,14 +111,6 @@ function Header({ page }: { page: Page }) {
             </a>
           ))}
         </div>
-        <a
-          className="nav-contact"
-          href={WA}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          WhatsApp <Arrow />
-        </a>
         <button
           ref={menu}
           className={`menu-button ${open ? "is-open" : ""}`}
@@ -279,7 +271,6 @@ function Hero({
       <div className="hero-blur hero-blur-top" />
       <div className="hero-blur hero-blur-bottom" />
       <div className="hero-heading">
-        <p className="hero-eyebrow">DEEPOINT NEW ENERGY</p>
         <h1>
           {t("Solar power.", "L’énergie solaire.")}
           <br />
@@ -323,14 +314,6 @@ function Hero({
             "Le solaire et le stockage Deye et Deepoint. Les bons produits, un approvisionnement régional et un accompagnement pour vos installations.",
           )}
         </p>
-        <a
-          className="scroll-cue"
-          href="#featured"
-          aria-label={t("Explore our products", "Découvrir nos produits")}
-        >
-          <span />
-          {t("Explore the possibilities", "Découvrez les possibilités")}
-        </a>
       </div>
     </section>
   );
@@ -405,7 +388,6 @@ function Featured() {
               className="product-art"
               href={pagePath("products", lang) + "#" + p.id}
             >
-              <span className="product-orbit" />
               <img src={p.image} alt={p.name} loading="lazy" decoding="async" />
             </a>
             <div className="featured-info">
@@ -429,6 +411,8 @@ function Featured() {
           </article>
         ))}
       </div>
+      <button className="runway-side-button runway-side-prev" disabled={index === 0} onClick={() => go(-1)} aria-label={t("Previous product", "Produit précédent")}><Arrow left /></button>
+      <button className="runway-side-button runway-side-next" disabled={atEnd} onClick={() => go(1)} aria-label={t("Next product", "Produit suivant")}><Arrow /></button>
       <div className="runway-controls">
         <span>
           {String(Math.min(index + 1, featured.length)).padStart(2, "0")}{" "}
@@ -436,24 +420,6 @@ function Featured() {
             / {String(featured.length).padStart(2, "0")}
           </span>
         </span>
-        <div className="control-pair">
-          <button
-            className="circle-button"
-            disabled={index === 0}
-            onClick={() => go(-1)}
-            aria-label={t("Previous product", "Produit précédent")}
-          >
-            <Arrow left />
-          </button>
-          <button
-            className="circle-button"
-            disabled={atEnd}
-            onClick={() => go(1)}
-            aria-label={t("Next product", "Produit suivant")}
-          >
-            <Arrow />
-          </button>
-        </div>
       </div>
     </section>
   );
@@ -560,12 +526,6 @@ function WarehouseMap() {
             </span>
           </h2>
         </div>
-        <p className="section-note">
-          {t(
-            "Four connections. One energy partner. Tap a region to take a look.",
-            "Quatre points de connexion. Un partenaire énergie. Touchez une région pour explorer.",
-          )}
-        </p>
       </div>
       <div
         className="map-tabs"
@@ -741,16 +701,6 @@ function WarehouseMap() {
           </>
         )}
       </div>
-      <div className="network-bottom">
-        <span className="status-dot" />
-        <p>
-          {t(
-            "Nigeria · Cameroon · Mali · Sierra Leone",
-            "Nigeria · Cameroun · Mali · Sierra Leone",
-          )}
-        </p>
-        <Contact className="text-link" />
-      </div>
     </section>
   );
 }
@@ -771,12 +721,6 @@ function Showroom() {
             </span>
           </h2>
         </div>
-        <p className="section-note">
-          {t(
-            "A place to explore the products behind your next installation.",
-            "Un lieu pour découvrir les produits de votre prochaine installation.",
-          )}
-        </p>
       </div>
       <Gallery
         images={[1, 2, 3].map((n) => `/images/editorial/showroom-${n}.webp`)}
@@ -785,7 +729,7 @@ function Showroom() {
       <div className="showroom-address">
         <div>
           <span className="eyebrow">{t("THE SHOWROOM", "LE SHOWROOM")}</span>
-          <p>Sixty5 complex Dawaki ext</p>
+          <p>{t("Nigeria · Sixty5 complex Dawaki ext", "Nigeria · Sixty5 complex Dawaki ext")}</p>
         </div>
         <Contact>{t("Arrange a visit", "Organiser une visite")}</Contact>
       </div>

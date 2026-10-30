@@ -103,6 +103,8 @@ export function Gallery({
   }
   return (
     <div className="gallery">
+      <div className="gallery-frame">
+      <button className="gallery-side-button gallery-side-prev" disabled={index === 0} onClick={() => go(index - 1)} aria-label={t("Previous image", "Image précédente")}><Arrow left /></button>
       <div
         className="gallery-track"
         ref={ref}
@@ -122,6 +124,8 @@ export function Gallery({
           </figure>
         ))}
       </div>
+      <button className="gallery-side-button gallery-side-next" disabled={index >= images.length - 1} onClick={() => go(index + 1)} aria-label={t("Next image", "Image suivante")}><Arrow /></button>
+      </div>
       <div className="gallery-controls">
         <span>
           {String(index + 1).padStart(2, "0")}{" "}
@@ -129,24 +133,6 @@ export function Gallery({
             / {String(images.length).padStart(2, "0")}
           </span>
         </span>
-        <div className="control-pair">
-          <button
-            className="circle-button"
-            disabled={index === 0}
-            onClick={() => go(index - 1)}
-            aria-label={t("Previous image", "Image précédente")}
-          >
-            <Arrow left />
-          </button>
-          <button
-            className="circle-button"
-            disabled={index >= images.length - 1}
-            onClick={() => go(index + 1)}
-            aria-label={t("Next image", "Image suivante")}
-          >
-            <Arrow />
-          </button>
-        </div>
       </div>
     </div>
   );

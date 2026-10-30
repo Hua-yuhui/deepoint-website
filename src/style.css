@@ -716,6 +716,25 @@ small {
   padding-right: max(24px, calc((100vw - 1320px) / 2));
   margin-top: 24px;
 }
+.featured-section { position: relative; }
+.runway-side-button,
+.gallery-side-button {
+  position: absolute;
+  z-index: 4;
+  width: 48px;
+  height: 48px;
+  border: 1px solid var(--line);
+  border-radius: 50%;
+  background: color-mix(in srgb, var(--bg) 78%, transparent);
+  backdrop-filter: blur(8px);
+  display: grid;
+  place-items: center;
+}
+.runway-side-button { top: 50%; transform: translateY(-50%); }
+.runway-side-prev { left: max(12px, calc((100vw - 1320px) / 2)); }
+.runway-side-next { right: max(12px, calc((100vw - 1320px) / 2)); }
+.runway-side-button:disabled,
+.gallery-side-button:disabled { opacity: .25; }
 /* Geographic warehouse explorer */
 .network-section {
   background: var(--surface);
@@ -950,6 +969,10 @@ small {
 .gallery-track figure:hover img {
   scale: 1.025;
 }
+.gallery-frame { position: relative; }
+.gallery-side-button { top: 50%; transform: translateY(-50%); }
+.gallery-side-prev { left: 16px; }
+.gallery-side-next { right: 16px; }
 .gallery-controls {
   display: flex;
   justify-content: space-between;
@@ -1118,9 +1141,11 @@ small {
   place-items: center;
   box-shadow: 0 5px 25px #00000028;
   transition: transform 0.25s;
+  opacity: 0.6;
 }
 .floating-whatsapp:hover {
   transform: translateY(-3px);
+  opacity: 0.75;
 }
 /* Inner pages */
 .page-intro {
